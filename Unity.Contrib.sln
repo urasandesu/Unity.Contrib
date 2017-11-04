@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Urasandesu.Unity.Contrib", "Test.Urasandesu.Unity.Contrib\Test.Urasandesu.Unity.Contrib.csproj", "{FB7C5232-BE0E-413A-B5A5-34301C3BA00A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Urasandesu.Unity.Contrib", "Urasandesu.Unity.Contrib\Urasandesu.Unity.Contrib.csproj", "{5534B80E-B362-4087-B139-5BC7A018E126}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB7C5232-BE0E-413A-B5A5-34301C3BA00A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7C5232-BE0E-413A-B5A5-34301C3BA00A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7C5232-BE0E-413A-B5A5-34301C3BA00A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7C5232-BE0E-413A-B5A5-34301C3BA00A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5534B80E-B362-4087-B139-5BC7A018E126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5534B80E-B362-4087-B139-5BC7A018E126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5534B80E-B362-4087-B139-5BC7A018E126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5534B80E-B362-4087-B139-5BC7A018E126}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA492585-BD8B-4FF0-BC45-57738279E9B7}
+	EndGlobalSection
+EndGlobal
